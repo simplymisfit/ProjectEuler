@@ -1,0 +1,15 @@
+H:\Users\Filip\source\repos\ProjectEuler\Problem1\Problem1\Problem1\bin\Debug\net5.0\Problem1.exe
+H:\Users\Filip\source\repos\ProjectEuler\Problem1\Problem1\Problem1\bin\Debug\net5.0\Problem1.deps.json
+H:\Users\Filip\source\repos\ProjectEuler\Problem1\Problem1\Problem1\bin\Debug\net5.0\Problem1.runtimeconfig.json
+H:\Users\Filip\source\repos\ProjectEuler\Problem1\Problem1\Problem1\bin\Debug\net5.0\Problem1.runtimeconfig.dev.json
+H:\Users\Filip\source\repos\ProjectEuler\Problem1\Problem1\Problem1\bin\Debug\net5.0\Problem1.dll
+H:\Users\Filip\source\repos\ProjectEuler\Problem1\Problem1\Problem1\bin\Debug\net5.0\ref\Problem1.dll
+H:\Users\Filip\source\repos\ProjectEuler\Problem1\Problem1\Problem1\bin\Debug\net5.0\Problem1.pdb
+H:\Users\Filip\source\repos\ProjectEuler\Problem1\Problem1\Problem1\obj\Debug\net5.0\Problem1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Users\Filip\source\repos\ProjectEuler\Problem1\Problem1\Problem1\obj\Debug\net5.0\Problem1.AssemblyInfoInputs.cache
+H:\Users\Filip\source\repos\ProjectEuler\Problem1\Problem1\Problem1\obj\Debug\net5.0\Problem1.AssemblyInfo.cs
+H:\Users\Filip\source\repos\ProjectEuler\Problem1\Problem1\Problem1\obj\Debug\net5.0\Problem1.csproj.CoreCompileInputs.cache
+H:\Users\Filip\source\repos\ProjectEuler\Problem1\Problem1\Problem1\obj\Debug\net5.0\Problem1.dll
+H:\Users\Filip\source\repos\ProjectEuler\Problem1\Problem1\Problem1\obj\Debug\net5.0\ref\Problem1.dll
+H:\Users\Filip\source\repos\ProjectEuler\Problem1\Problem1\Problem1\obj\Debug\net5.0\Problem1.pdb
+H:\Users\Filip\source\repos\ProjectEuler\Problem1\Problem1\Problem1\obj\Debug\net5.0\Problem1.genruntimeconfig.cache
